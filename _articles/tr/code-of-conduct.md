@@ -7,7 +7,7 @@ toc:
   why-do-i-need-a-code-of-conduct: Neden bir davranış kural listesine ihtiyacım var?
   establishing-a-code-of-conduct: Davranış kuralları oluşturmak
   deciding-how-youll-enforce-your-code-of-conduct: Davranış kurallarınızı nasıl uygulayacağınıza karar verme
-  enforcing-your-code-of-conduct: Davranış kurallarınızı uygulama
+  enforcing-your-code-of-conduct: Davranış kurallarınızı güçlendirmek
   your-responsibilities-as-a-maintainer: Bir koruyucu olarak sorumluluklarınız
 order: 8
 image: "/assets/images/cards/coc.png"
@@ -66,7 +66,7 @@ Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebilec
 
 İlham almak için Django'nun [uygulama kılavuzunu inceleyin](https://www.djangoproject.com/conduct/enforcement-manual/) (ancak projenizin büyüklüğüne bağlı olarak bu kadar kapsamlı bir şeye ihtiyacınız olmayabilir).
 
-## Davranış kurallarınızı güçlendirmek
+## Davranış kural listesini güçlendirmek
 
 Bazen, en iyi çabalarınıza rağmen, birileri bu kodu ihlal eden bir şey yapabilir. Olay ortaya çıktığında olumsuz ya da zararlı davranışları ele almanın birkaç yolu vardır.
 
